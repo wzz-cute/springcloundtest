@@ -1,7 +1,2 @@
-
-asdfasdfasdfas
-vadsfasf
-fdbadf
-
-
-asdgaerfaefa
+config: 
+  info: config-text.yml
